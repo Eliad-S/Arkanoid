@@ -1,0 +1,20 @@
+# default values for blocks
+default height:100 width:100 stroke:color(black)
+
+# block definitions
+bdef symbol:1 hit_points:3 fill-3:image(block_images/minion20.jpg) fill-2:image(block_images/minion1.jpg) fill-1:image(block_images/minion11.jpg)
+bdef symbol:2 hit_points:3 fill-3:image(block_images/minion19.jpg) fill-2:image(block_images/minion2.jpg) fill-1:image(block_images/minion12.jpg)
+bdef symbol:3 hit_points:3 fill-3:image(block_images/minion18.jpg) fill-2:image(block_images/minion3.jpg) fill-1:image(block_images/minion13.jpg)
+bdef symbol:4 hit_points:3 fill-3:image(block_images/minion17.jpg) fill-2:image(block_images/minion4.jpg) fill-1:image(block_images/minion14.jpg)
+bdef symbol:5 hit_points:3 fill-3:image(block_images/minion16.jpg) fill-2:image(block_images/minion5.jpg) fill-1:image(block_images/minion15.jpg)
+bdef symbol:6 hit_points:3 fill-3:image(block_images/minion15.jpg) fill-2:image(block_images/minion6.jpg) fill-1:image(block_images/minion16.jpg)
+bdef symbol:7 hit_points:3 fill-3:image(block_images/minion14.jpg) fill-2:image(block_images/minion7.jpg) fill-1:image(block_images/minion17.jpg)
+bdef symbol:8 hit_points:3 fill-3:image(block_images/minion13.jpg) fill-2:image(block_images/minion8.jpg) fill-1:image(block_images/minion18.jpg)
+bdef symbol:9 hit_points:3 fill-3:image(block_images/minion12.jpg) fill-2:image(block_images/minion9.jpg) fill-1:image(block_images/minion19.jpg)
+bdef symbol:10 hit_points:3 fill-3:image(block_images/minion11.jpg) fill-2:image(block_images/minion10.jpg) fill-1:image(block_images/minion20.jpg)
+
+
+
+
+# spacers definitions
+sdef symbol:- width:50

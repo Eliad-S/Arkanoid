@@ -1,0 +1,52 @@
+START_LEVEL
+level_name: minions
+ball_velocities:60,8 300,8
+background:image(background_images/backminion.jpg)
+paddle_speed:22
+paddle_width:250
+block_definitions:definitions/minionsDef.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:100
+num_blocks:10
+START_BLOCKS
+1-2-3-4-5
+-
+6-7-8-9-10
+-
+
+
+END_BLOCKS
+END_LEVEL
+
+
+
+START_LEVEL
+level_name: Retro Arrows
+ball_velocities:45,8 46,8 47,8
+background:image(background_images/Galaxy_448925_800x600.jpg)
+paddle_speed:22
+paddle_width:250
+block_definitions:definitions/alienDefinition.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:81
+START_BLOCKS
+----y-----y--
+----y-----y
+-----y---y-
+----ggggggg--
+----ggggggg--
+---grrgggrrg
+---grrgggrrg--
+--ggggggggggg
+--ggggggggggg
+--g-ggggggg-g
+--g-g-----g-g
+--g-g-----g-g
+-----ggggg---
+-----ggggg---
+
+END_BLOCKS
+END_LEVEL
