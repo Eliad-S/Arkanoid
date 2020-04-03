@@ -26,7 +26,7 @@ I also created a file who saves the high-scores of players across different game
 ## Installation:
 1. Clone the repository:  
     ```
-    $ git clone https://github.com/eyalcohen308/Arkanoid.git
+    $ git clone https://github.com/Eliad-S/Arkanoid.git
     ```
 2. run this commands:
     ```
